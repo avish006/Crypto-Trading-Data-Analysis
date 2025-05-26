@@ -54,7 +54,7 @@ We computed 10+ metrics to profile trading behavior:
 - **Very few accounts** show consistent profits during **Extreme Fear** — suggesting avoidance or better risk mitigation is key.
 - This opens the door to **sentiment-aligned trading strategy development**.
 
-## Note ⚠️ For a More Detailed insight download the "Trading Account Performance Analysis.docx".
+## ⚠️ For a Detailed insight download "Trading Account Performance Analysis.docx".
 
 ## 🗃️ Data Used
 
